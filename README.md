@@ -24,5 +24,6 @@
 <li>А еще снимаю на пленку и рисую! </li>
 </ul>
 
+----------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyRene&layout=compact)](https://github.com/heyRene/github-readme-stats)
 
