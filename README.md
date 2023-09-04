@@ -1,5 +1,5 @@
 <img src="./header.png" alt="Привет! Это Рената Гафиатуллина">
-<img align="right" src ='./github-ill.jpg' alt='иллюстрация девушки за ноутбуком'>
+<img align="right" width='520px' src ='./github-ill.jpg' alt='иллюстрация девушки за ноутбуком'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=212424&width=435&lines=%D0%AF+-+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%F0%9F%A4%8D" alt="Я - frontend-разработчик" /></a>
 <h3>Навыки</h3>
 <p align="left"> 
